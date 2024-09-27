@@ -1,4 +1,4 @@
-baseURL = "threshingfloorfoundation.org"
+baseURL = ""
 languageCode = "en-us"
 theme = "hugo-winston-"
 themesDir = "themes"
