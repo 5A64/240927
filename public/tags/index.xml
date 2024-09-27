@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Threshing Floor Foundation</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Threshing Floor Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/tags/about/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genesis</title>
+      <link>/tags/genesis/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/genesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liberty</title>
+      <link>/tags/liberty/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/liberty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Loyalty</title>
+      <link>/tags/loyalty/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/loyalty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Surveillance</title>
+      <link>/tags/surveillance/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/surveillance/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

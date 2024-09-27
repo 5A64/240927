@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Threshing Floor Foundation</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Threshing Floor Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genesis of the project</title>
+      <link>/posts/genesis/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/genesis/</guid>
+      <description>Introductory post Introductory post on why we wanted to start this philanthropy project&#xA;Internal goals of (i) giving back, (ii) gaining experience in running philanthropy with personal capital before been entrusted with external funding, (iii) to practice donating money effectively, (iv) to learn how money can best be used to help those in need, (v) matching funds to increase dollar impact, (vi) to learn about the conditions of the world outside of Australia/New Zealand…</description>
+    </item>
+    <item>
+      <title>Why &#39;Threshing Floor&#39;?</title>
+      <link>/posts/name/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/name/</guid>
+      <description>test sustenance, care, protection, provision, transformation &amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
