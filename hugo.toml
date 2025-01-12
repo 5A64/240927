@@ -57,12 +57,17 @@ pygmentsUseClasses = true
     weight = 2
     url = "/posts/"
   [[menu.main]]
+    name = "Budget"
+    identifier = "budget"
+    weight = 3
+    url = "https://1drv.ms/x/c/79f1ca8d805f08c8/EQa4uQtu-WlMsprUijlJTmsBJkoKLcEqXjAf9gd7ybf6gg?e=16SYKD"
+  [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 3
-    url = "/About/"
-  [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
     weight = 4
-    url = "/tags/"
+    url = "/About/"
+#  [[menu.main]]
+#    name = "Tags"
+#    identifier = "tags"
+#    weight = 4
+#    url = "/tags/"
