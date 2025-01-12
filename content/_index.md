@@ -1,5 +1,5 @@
 ---
-title: a philanthropy project to enable all children to flourish
+title: a philanthropy project to enable disadvantaged children to flourish 
 description: XX
 ---
 
