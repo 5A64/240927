@@ -60,7 +60,8 @@ pygmentsUseClasses = true
     name = "Budget"
     identifier = "budget"
     weight = 3
-    url = "https://1drv.ms/x/c/79f1ca8d805f08c8/EQa4uQtu-WlMsprUijlJTmsBJkoKLcEqXjAf9gd7ybf6gg?e=16SYKD target="_blank""
+    url = "https://1drv.ms/x/c/79f1ca8d805f08c8/EQa4uQtu-WlMsprUijlJTmsBJkoKLcEqXjAf9gd7ybf6gg?e=16SYKD"
+    target = "_blank"
   [[menu.main]]
     name = "About"
     identifier = "about"
