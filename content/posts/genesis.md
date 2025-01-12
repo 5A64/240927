@@ -17,11 +17,13 @@ Then, we centered our focus on the primary question – “what does it mean to 
 
 Our milestones were drawn up as follows: 
 
+<pre>
 Q1 2024	Conceptualize project 
 Q2 2024	Research, design project 
 Q3 2024	Website and philanthropy official launch 
 Q4 2024	JC in field/implementation 
 Q1 2025	Review and share learnings 
+</pre>
 
 We met monthly and began reading and watching material around this topic. Our learnings and additional questions were documented in a shared research document.  
 
