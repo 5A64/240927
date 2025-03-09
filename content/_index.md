@@ -1,5 +1,5 @@
 ---
-title: a philanthropy project to identify and address the most effective ways to help children who need care and support 
+title: we want to identify and address the most effective ways to help children who need care and support 
 description: XX
 ---
 
