@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>a philanthropy project to enable all children to flourish on Threshing Floor Foundation</title>
-    <link>/</link>
-    <description>Recent content in a philanthropy project to enable all children to flourish on Threshing Floor Foundation</description>
+    <title>we want to identify and address the most effective ways to help children who need care and support on Threshing Floor Foundation</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in we want to identify and address the most effective ways to help children who need care and support on Threshing Floor Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Genesis of the project</title>
-      <link>/posts/genesis/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/genesis/</guid>
-      <description>Introductory post Introductory post on why we wanted to start this philanthropy project&#xA;Internal goals of (i) giving back, (ii) gaining experience in running philanthropy with personal capital before been entrusted with external funding, (iii) to practice donating money effectively, (iv) to learn how money can best be used to help those in need, (v) matching funds to increase dollar impact, (vi) to learn about the conditions of the world outside of Australia/New Zealand…</description>
+      <title>The meaning behind &#39;Threshing Floor&#39;</title>
+      <link>//localhost:1313/posts/threshingfloor/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/threshingfloor/</guid>
+      <description>A good name for a foundation or organization is important. Why? It summarizes the essence of the mission and centers the organization’s core beliefs. And of course, we wanted a catchy, and meaningful name for our venture.&#xA;As described in our previous post (“Why did we start this project?”), some of our core beliefs stemmed from Christian perspectives. So, we delved into biblical references and recalled the story of Boaz and Ruth.</description>
     </item>
     <item>
-      <title>Why &#39;Threshing Floor&#39;?</title>
-      <link>/posts/name/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/name/</guid>
-      <description>test sustenance, care, protection, provision, transformation &amp;hellip;</description>
+      <title>Why did we start this project?</title>
+      <link>//localhost:1313/posts/why/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/why/</guid>
+      <description>Both of us came together to work on this project because we (5A64 and Jessie) believed in cultivating the talents of orphans, though the source of this belief and what factors moulded these beliefs are different. Let us explain.&#xA;5A64’s Belief&#xA;One of my core theses is that everyone has a unique talent and that this needs to be nurtured at an early age. When they’re still in the kid-like state exploring and following their curiosities, they are less likely to be moulded by perceptions of the standard path to pursue.</description>
+    </item>
+    <item>
+      <title>Genesis of the project</title>
+      <link>//localhost:1313/posts/genesis/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/genesis/</guid>
+      <description>Like many initiatives, this project began informally, sparked by conversations between two friends. At the time, we were both in the final stages of our PhD program in biomedical science, and on one fateful sunny afternoon in 2022 - we started talking about philanthropy. We realized that both of us had long-term goals which involved doing good and giving back to the rest of humanity. However, we had never undertaken a venture of this magnitude before.</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>draft We want to figure out how best to support children in orphanages. Which orphanages actually require funding? Are orpahanages necessary, is there a better solution? How can we generate sustainable funding? So we&amp;rsquo;re going to start small, experiment, figure out the optimal solutions, and then scale up so that all children have an opportunity to flourish.&#xA;We&amp;rsquo;ll document everything here.</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>In 2024, we started a casual conversation about the current perceptions and state of orphanages. And as two friends in STEM academia, we realized we could delve deeper and gain a better understanding by doing our own self-driven research project. As we read more about this topic, we started to ask more around the fundamental question – ‘how best can we support children in orphanages?’. We’re going to start small, experiment, figure out the optimal solutions, and then scale up so that disadvantaged/neglected children have an opportunity to flourish.</description>
     </item>
   </channel>
 </rss>

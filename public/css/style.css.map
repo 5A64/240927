@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/mitchellzheng/Desktop/240927",
+	"sourceRoot": "/Users/mitchellzheng/XServer (OFF)/AFOR Always Forward/AFOR Philanthropy Project (with JJYC)/240927",
 	"sources": [
 		"themes/hugo-winston-/assets/scss/style.scss",
 		"themes/hugo-winston-/assets/scss/_normalize.scss",
