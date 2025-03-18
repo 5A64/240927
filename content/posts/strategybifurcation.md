@@ -26,5 +26,5 @@ With a clear vision for the two arms of our approach, we chose Indonesia, India,
 
 In the next two posts, we expand on these two strategies. 
 
-<sup>1</sup>https://www.givedirectly.org/ 
+<sup>1</sup>https://www.givedirectly.org/  
 <sup>2</sup>https://cambodianchildrenstrust.org/ 
