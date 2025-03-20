@@ -16,7 +16,7 @@ One of the most popular methods of voluntourism is teaching or looking after orp
 
 These factors are detrimental to a child’s wellbeing. We didn’t want to be a part of this, so we instead sought solutions that would be a good medium between being useful to these children without them being attached to us. 
 
-We thought about giving these children excursions so that they could experience opportunities that they might not otherwise be able to do so (similar to the Pillar program mentioned in the ‘Why did we start this project?’ post). But through our research, we realized that not even the essential basic needs are met (e.g. food, clothing, shelter, carers). Since direct giving is more effective than donating through an intermediary (a radical method implemented in organizations such as Give Directly<sup>1</sup>), we decided to ask orphanages about their specific needs, purchase the requested items, and provide them directly.  
+We thought about giving these children excursions so they could experience opportunities that they might not otherwise be able to do so (similar to the Pillar program mentioned in the ‘Why did we start this project?’ post). But through our research, we realized that not even the essential basic needs are met (e.g. food, clothing, shelter, carers). Since direct giving is more effective than donating through an intermediary (a radical method implemented in organizations such as Give Directly<sup>1</sup>), we decided to ask orphanages about their specific needs, purchase the requested items, and provide them directly.  
 
 As mentioned above, we also realized that not all children in orphanages are orphans. In many cases, a large proportion of the children are in fact foster children with living parents who cannot care for them due to poverty or family violence. We realized this most strongly via the anecdotes of Australian philanthropist Tara Winkler, the co-founder of Cambodian Children’s Trust (CCT)<sup>2</sup>.  
 
@@ -26,5 +26,5 @@ With a clear vision for the two arms of our approach, we chose Indonesia, India,
 
 In the next two posts, we expand on these two strategies. 
 
-<sup>1</sup>https://www.givedirectly.org/  
+<sup>1</sup>https://www.givedirectly.org/
 <sup>2</sup>https://cambodianchildrenstrust.org/ 
