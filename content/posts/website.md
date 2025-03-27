@@ -14,13 +14,13 @@ There’s only one major caveat: you need some programming experience, or at lea
 
 In this post, we layout the general protocol for building a website via a Hugo and Netlify framework. 
 
-Prerequisites 
+**Prerequisites**
 
 - Hugo tutorial by Envato Tuts+ 
 - Unix (basic commands for interfacing with the command line)
 - Visual Studio Code (for managing configurations and writing content) 
 
-High Level Overview 
+**High Level Overview**
 
 1. Install Hugo on your computer
 2. Create the Hugo website directory and files
@@ -32,7 +32,7 @@ High Level Overview
 8. Assign domain address to the Netlify hosted website
 9. Maintain website by pushing updates to the GitHub repository with changes automatically redeployed by Netlify 
 
-Troubleshooting
+**Troubleshooting**
 
 <table border="1"> 
   <tr> 
@@ -50,6 +50,6 @@ dns4.p04.nsone.net</pre>
   </tr> 
 </table> 
 
-We want to thank the open-source community for enabling permissionless production of this website and for the knowledge gained through free online tutorials. Thank you to <a href=”https://github.com/zerostaticthemes/hugo-winston-theme” target=”_blank”>Rob Austin</a> for the <a href=”https://github.com/zerostaticthemes/hugo-winston-theme” target=”_blank”>Hugo Winston</a> theme and <a href=”https://www.youtube.com/watch?v=hjD9jTi_DQ4” target=”_blank”> Envato Tuts+</a> for the Hugo tutorial. To reciprocate, we’ve made our website’s code available on <a href=”https://github.com/5A64/240927” target=”_blank”>GitHub</a> for review and if anyone wants to fork our repository. 
+We want to thank the open-source community for enabling permissionless production of this website and for the knowledge gained through free online tutorials. Thank you to <a href="https://www.zerostatic.io/" target="_blank">Rob Austin</a> for the <a href="https://github.com/zerostaticthemes/hugo-winston-theme" target="_blank">Hugo Winston</a> theme and <a href="https://www.youtube.com/watch?v=hjD9jTi_DQ4" target="_blank"> Envato Tuts+</a> for the Hugo tutorial. To reciprocate, we’ve made our website’s code available on <a href="https://github.com/5A64/240927" target="_blank">GitHub</a> for review and if anyone wants to fork our repository. 
 
 This whole procedure cost us AUD$12 (limited solely to the domain address purchase) and about 20 hours from initiation (training) to deployment. This is a testament that the barrier to building a website to get your work out there is incredibly low. Build, deploy and contribute something beautiful to the world! For us, it's the lessons learned from our philanthropy project. For you, it could be anything. 
