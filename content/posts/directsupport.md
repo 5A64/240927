@@ -100,9 +100,9 @@ We summarize the visitations in the table below:
         <td>No</td> 
     </tr> 
 </table> 
-<br>
+
 Here are some generalized observations: 
-<br>
+
 It appeared that some orphanages were receiving donations often. Particularly in Bali, where it is a tourist hot-spot - it appears that many holiday-goers are inclined to give back to the local community. This was identified by a visitor logbook we had to sign during our visit to Hope Children’s Home – where the number of names, the proximity of the visits and the amount of cash or goods donated were shockingly large. As a donor, you may want to ask yourself whether you would be creating more impact by donating to a lesser known charity or donating goods that are in lack at the orphanage. For all three of the orphanages we visited, we asked for a list of items that were in high need. Some orphanages suggested bringing sweets to make the children happy, and we decided to get some sweets which were a little more exciting (i.e. Korean snacks) so that we could give the children a new experience (which was something we wanted to try and explore). Of course, snacks are not so healthy for the children, so other goods like rice and other staples made up most of the donations (see our ‘Budget’ tab for our specific list of donated goods).  
 
 We also strongly felt that the number of children mattered. The orphanages with higher child counts (50-60) with such low caregiver to child ratios, felt chaotic and undermanaged. We could imagine that each child was unable to receive the amount of love and care they needed in a co-op housing situation like this and understood why the second arm of our approach mattered so much (i.e. reintegration). However, the children (being children) were able to freely play with the others, whether it be role-playing with made-up characters or chatting, etc.  
@@ -284,9 +284,7 @@ To summarize:
         <td>Use if you would like to achieve maximum impact – all money goes to the charity</td> 
     </tr> 
 </table> 
-
-<br>
-Of course, cash donations have the most versatility and useability for charities. However, given the widespread reports of mismanagement and corruption among orphanage organizers, we were hesitant to pursue this approach. To make this process as transparent as possible, we opted for the next best option – goods donations. 
+Of course, cash donations have the most versatility and usability for charities. However, given the widespread reports of mismanagement and corruption among orphanage organizers, we were hesitant to pursue this approach. To make this process as transparent as possible, we opted for the next best option – goods donations. 
 
 ## 3.2 Goods donations 
 
