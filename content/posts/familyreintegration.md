@@ -15,6 +15,7 @@ It’s worthwhile mentioning that family reintegration goes beyond physically re
 
 We sought programs that directly or indirectly achieved family reintegration outcomes. Using a diversified, portfolio-based approach, we identified the following candidates: 
 
+<div>
 <table border="1"> 
     <tr> 
         <td>Program</td> 
@@ -52,6 +53,7 @@ We sought programs that directly or indirectly achieved family reintegration out
         <td>$1243 (IDR$13m)</td> 
     </tr> 
 </table> 
+</div>
 
 We determined fund allocations based on two key criteria: past success in family reintegration and/or alignment with our values in cases where no reported metrics were available. Snehalaya’s program met both criteria, reporting that over 40 children had been reintegrated with their parents or extended families at a 60-70% success rate. It was also welcome news to hear that Snehalaya aims to establish its program as a replicable model, leading efforts in India to promote family-based care in a nascent landscape where Western-style foster care is not yet widespread. 
 
