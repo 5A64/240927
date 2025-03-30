@@ -1,5 +1,5 @@
 ---
-title: we want to identify and address the most effective ways to help children who need care and support 
+title: we want to find and implement the best ways to support children in need 
 description: XX
 pagetitle: Threshing Floor Foundation
 ---
