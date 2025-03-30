@@ -1,6 +1,6 @@
 ---
 title: Future outlook 
-date: 2025-03-28
+date: 2025-03-30
 tags:
    - project 
 ---

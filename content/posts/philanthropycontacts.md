@@ -67,7 +67,7 @@ Our on-the-ground research was made possible thanks to the generous time and ins
   </tr> 
   <tr> 
     <td>Snehalaya Home of Love</td> 
-    <td>Ahmednagar</td> 
+    <td>Ahmednagar, India</td> 
     <td>Joce Connolly</td> 
     <td>joyce@snehalaya.org</td> 
     <td><a href="https://www.snehalaya.org/" target="_blank">https://www.snehalaya.org/</a></td> 
