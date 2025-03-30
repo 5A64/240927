@@ -92,7 +92,7 @@ As a reference point, we sourced data from Living.org, assuming a family of 3-4.
         <td>NA</td> 
         <td>NA</td> 
     </tr> 
-</table><br>
+</table>
 
 Assumptions: monthly costs for a family of 3-4 inclusive of rent. Livingcost.org costs retrieved on 25th March 2025. On-the-ground living costs obtained from local sources including locals and Grab drivers during October 2024 to January 2025. 
 
