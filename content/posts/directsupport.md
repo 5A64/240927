@@ -99,8 +99,7 @@ We summarize the visitations in the table below:
         <td>Yes</td> 
         <td>No</td> 
     </tr> 
-</table> 
-
+</table><br> 
 
 Here are some generalized observations: 
 
@@ -169,7 +168,7 @@ We also visited other organizations which were involved with helping disadvantag
         <td>Founder and ~5-7 paid workers including social worker</td> 
         <td>Co-founders, one part-time cleaner, all residents encouraged to contribute to the chores of the facilities</td> 
     </tr> 
-</table> 
+</table><br>
 
 ## 2.3 Pain points of running an orphanage and child-support organizations 
 
@@ -284,8 +283,7 @@ To summarize:
         </td> 
         <td>Use if you would like to achieve maximum impact – all money goes to the charity</td> 
     </tr> 
-</table> 
-
+</table><br>
 
 Of course, cash donations have the most versatility and usability for charities. However, given the widespread reports of mismanagement and corruption among orphanage organizers, we were hesitant to pursue this approach. To make this process as transparent as possible, we opted for the next best option – goods donations. 
 

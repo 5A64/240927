@@ -51,9 +51,9 @@ We sought programs that directly or indirectly achieved family reintegration out
         <td>Provide accessible healthcare to families with children experiencing poverty</td> 
         <td>$1243 (IDR$13m)</td> 
     </tr> 
-</table> 
+</table><br>
 
-<p> We determined fund allocations based on two key criteria: past success in family reintegration and/or alignment with our values in cases where no reported metrics were available. Snehalaya’s program met both criteria, reporting that over 40 children had been reintegrated with their parents or extended families at a 60-70% success rate. It was also welcome news to hear that Snehalaya aims to establish its program as a replicable model, leading efforts in India to promote family-based care in a nascent landscape where Western-style foster care is not yet widespread. </p> 
+We determined fund allocations based on two key criteria: past success in family reintegration and/or alignment with our values in cases where no reported metrics were available. Snehalaya’s program met both criteria, reporting that over 40 children had been reintegrated with their parents or extended families at a 60-70% success rate. It was also welcome news to hear that Snehalaya aims to establish its program as a replicable model, leading efforts in India to promote family-based care in a nascent landscape where Western-style foster care is not yet widespread.
 
 For Bali Kids’ Healthcare Clinic and HSCV’s Blossom Program, we contributed to these initiatives because their operators (Brenton Whitaker/Komang Kusala and Annetta DeVet, respectively) shared our belief that the ultimate goal is to keep children with their families or extended family and to continue strengthening the relationship between a parent and child. 
 
@@ -92,7 +92,7 @@ As a reference point, we sourced data from Living.org, assuming a family of 3-4.
         <td>NA</td> 
         <td>NA</td> 
     </tr> 
-</table> 
+</table><br>
 
 Assumptions: monthly costs for a family of 3-4 inclusive of rent. Livingcost.org costs retrieved on 25th March 2025. On-the-ground living costs obtained from local sources including locals and Grab drivers during October 2024 to January 2025. 
 

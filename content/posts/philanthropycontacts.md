@@ -72,7 +72,7 @@ Our on-the-ground research was made possible thanks to the generous time and ins
     <td>joyce@snehalaya.org</td> 
     <td><a href="https://www.snehalaya.org/" target="_blank">https://www.snehalaya.org/</a></td> 
   </tr> 
-</table>
+</table><br>
 
 We also have a list of organizations which were referred by the founders of the above organizations: 
 
@@ -92,7 +92,7 @@ We also have a list of organizations which were referred by the founders of the 
     <td>Ho Chi Minh City / Bac Ninh Province / Hanoi, Vietnam</td> 
     <td><a href=" https://www.koto.com.au/" target="_blank"> https://www.koto.com.au/</a></td> 
   </tr> 
-  </table>  
+  </table><br>
 
 Finally, we would like to honor and acknowledge the philanthropists who paved the way for us, and whose work we greatly admire. 
 

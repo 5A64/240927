@@ -48,7 +48,7 @@ dns3.p04.nsone.net
 dns4.p04.nsone.net</pre> 
     </td> 
   </tr> 
-</table> 
+</table><br>
 
 We want to thank the open-source community for enabling permissionless production of this website and for the knowledge gained through free online tutorials. Thank you to <a href="https://www.zerostatic.io/" target="_blank">Rob Austin</a> for the <a href="https://github.com/zerostaticthemes/hugo-winston-theme" target="_blank">Hugo Winston</a> theme and <a href="https://www.youtube.com/watch?v=hjD9jTi_DQ4" target="_blank"> Envato Tuts+</a> for the Hugo tutorial. To reciprocate, we’ve made our website’s code available on <a href="https://github.com/5A64/240927" target="_blank">GitHub</a> for review and if anyone wants to fork our repository. 
 
